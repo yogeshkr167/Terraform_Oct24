@@ -1,0 +1,34 @@
+---
+Cars:
+- Alto:
+    Model:
+      Name: V3
+      Year: 2021
+    Colour: Red
+    Price: 2.3lk
+    Owner:
+      Name: Raj
+      Handle: 2nd
+    Negotiable: Yes
+
+- Nano:
+    Model:
+      Name: V2
+      Year: 2023
+    Colour: Black
+    Price: 1.3lk
+    Owner:
+      Name: Sachin
+      Handle: 3rd
+    Negotiable: Yes
+    
+- Swift:
+    Model:
+      Name: V4
+      Year: 2020
+    Colour: Grey
+    Price: 3.3lk
+    Owner:
+      Name: Yuva
+      Handle: 1st
+    Negotiable: Yes
